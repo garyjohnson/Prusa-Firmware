@@ -40,5 +40,12 @@
 #define PRINTER_MK3S_MMU2_NAME     "MK3SMMU2S"
 #define PRINTER_MK3S_MMU3          30302
 #define PRINTER_MK3S_MMU3_NAME     "MK3SMMU3"
+// *** MKG
+#define PRINTER_MKG     		302 // MK3S
+#define PRINTER_MKG_NAME          "MKG"
+#define PRINTER_MKG_MMU2          20302
+#define PRINTER_MKG_MMU2_NAME     "MKGMMU2S"
+#define PRINTER_MKG_MMU3          30302
+#define PRINTER_MKG_MMU3_NAME     "MKGMMU3"
 
 #endif //PRINTERS_H
